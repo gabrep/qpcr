@@ -1,0 +1,125 @@
+Document Name: Gabriel - Placa 6 04 
+Plate Type: Standard Curve
+User: Administrator
+
+Document Information
+
+Operator: Administrator
+Run Date: Tuesday, February 04, 2025 12:03:57
+Last Modified: Tuesday, February 04, 2025 14:22:47
+Instrument Type: Applied Biosystems 7500 Real-Time PCR System
+
+Comments:
+SDS v1.4
+
+Thermal Cycler Profile
+Stage,Repetitions,Temperature,Time,Ramp Rate,Auto Increment
+1,1,50.0 °C,2:00,100,,
+2,1,95.0 °C,10:00,100,,
+3,45,95.0 °C,0:15,100,,
+,,60.0 °C,1:00,100,,
+4 (Dissociation),1,95.0 °C,0:15,Auto,,
+,,60.0 °C,1:00,Auto,,
+,,95.0 °C,0:15,Auto,,
+,,60.0 °C,0:15,Auto,,
+Standard 7500 Mode
+Data Collection :  Stage 3 Step 2
+PCR Volume: 10 µL,
+
+Well,Sample Name,Detector,Task,Ct,StdDev Ct,Qty,Mean Qty,StdDev Qty,Filtered,Tm,User Defined #1,User Defined #2,User Defined #3
+A1,62,hprt,Unknown,36.2947,3.53,,,,,79.4
+A2,63,hprt,Unknown,26.9548,1.84,,,,,79.7
+A3,43,hprt,Unknown,25.6604,0.45,,,,,80.1
+A4,25,hprt,Unknown,25.224,0.288,,,,,80.1
+A5,33,hprt,Unknown,24.9354,0.695,,,,,80.1
+A6,36,hprt,Unknown,25.3507,0.672,,,,,80.1
+A7,branco,hprt,Unknown,36.0317,,,,,,75.0
+A8,62,IL-6,Unknown,42.9353,1.26,,,,,74.2
+A9,62,TXNRD1,Unknown,33.3838,1.02,,,,,75.0
+A10,43,TXNRD1,Unknown,32.9942,0.285,,,,,75.7
+A11,33,TXNRD1,Unknown,31.4922,0.449,,,,,84.9
+A12,branco,TXNRD1,Unknown,34.0578,,,,,,75.7
+B1,62,hprt,Unknown,31.303,3.53,,,,,72.8
+B2,63,hprt,Unknown,29.5544,1.84,,,,,79.7
+B3,43,hprt,Unknown,26.2972,0.45,,,,,80.1
+B4,25,hprt,Unknown,24.8168,0.288,,,,,80.1
+B5,33,hprt,Unknown,23.9522,0.695,,,,,80.4
+B6,36,hprt,Unknown,24.4006,0.672,,,,,80.4
+B7,branco,hprt,Unknown,Undetermined,,,,,,72.8
+B8,62,IL-6,Unknown,41.1523,1.26,,,,,72.4
+B9,62,TXNRD1,Unknown,31.9438,1.02,,,,,76.0
+B10,43,TXNRD1,Unknown,33.3977,0.285,,,,,85.3
+B11,33,TXNRD1,Unknown,32.1265,0.449,,,,,75.3
+B12,branco,IL-6,Unknown,36.5969,2.44,,,,,72.8
+C1,62,TXNIP,Unknown,29.9206,1.34,,,,,80.8
+C2,63,TXNIP,Unknown,26.8948,0.262,,,,,81.2
+C3,43,TXNIP,Unknown,25.6729,0.123,,,,,81.5
+C4,25,TXNIP,Unknown,24.0583,0.25,,,,,81.9
+C5,33,TXNIP,Unknown,24.7295,0.276,,,,,81.5
+C6,36,TXNIP,Unknown,24.5401,0.139,,,,,81.9
+C7,branco,TXNIP,Unknown,38.0465,,,,,,74.6
+C8,63,IL-6,Unknown,39.9305,1.07,,,,,74.2
+C9,62,TNF alfa,Unknown,33.8671,0.471,,,,,70.6
+C10,43,TNF alfa,Unknown,33.8479,0.417,,,,,81.2
+C11,33,TNF alfa,Unknown,34.0751,0.457,,,,,69.9
+C12,branco,TNF alfa,Unknown,35.7192,5.11,,,,,70.3
+D1,62,TXNIP,Unknown,28.0225,1.34,,,,,81.2
+D2,63,TXNIP,Unknown,26.5241,0.262,,,,,81.5
+D3,43,TXNIP,Unknown,25.499,0.123,,,,,81.9
+D4,25,TXNIP,Unknown,24.4117,0.25,,,,,81.9
+D5,33,TXNIP,Unknown,24.3387,0.276,,,,,81.9
+D6,36,TXNIP,Unknown,24.7363,0.139,,,,,81.9
+D7,branco,TXNIP,Unknown,Undetermined,,,,,,67.0
+D8,63,IL-6,Unknown,38.4132,1.07,,,,,74.6
+D9,62,TNF alfa,Unknown,34.5332,0.471,,,,,70.6
+D10,43,TNF alfa,Unknown,34.438,0.417,,,,,81.2
+D11,33,TNF alfa,Unknown,33.4295,0.457,,,,,81.2
+D12,branco,TNF alfa,Unknown,42.943,5.11,,,,,69.9
+E1,62,TXN_1,Unknown,34.7895,1.39,,,,,75.0
+E2,63,TXN_1,Unknown,29.0339,1,,,,,75.3
+E3,43,TXN_1,Unknown,27.3555,0.0672,,,,,75.3
+E4,25,TXN_1,Unknown,26.3226,0.307,,,,,75.7
+E5,33,TXN_1,Unknown,25.6364,,,,,,75.7
+E6,36,TXN_1,Unknown,25.6419,0.176,,,,,75.7
+E7,branco,TXN_1,Unknown,Undetermined,,,,,,73.5
+E8,43,IL-6,Unknown,37.7654,1.48,,,,,74.6
+E9,63,TXNRD1,Unknown,32.5814,0.0092,,,,,85.3
+E10,25,TXNRD1,Unknown,31.9672,0.0739,,,,,76.0
+E11,36,TXNRD1,Unknown,32.6691,0.509,,,,,76.0
+E12,branco,IL-6,Unknown,39.8556,2.44,,,,,74.2
+F1,62,TXN_1,Unknown,32.8231,1.39,,,,,75.0
+F2,63,TXN_1,Unknown,27.6181,1,,,,,75.3
+F3,43,TXN_1,Unknown,27.4505,0.0672,,,,,75.3
+F4,25,TXN_1,Unknown,26.7569,0.307,,,,,75.7
+F5,33,TXN_1,Unknown,Undetermined,,,,,,65.5
+F6,36,TXN_1,Unknown,25.3928,0.176,,,,,75.7
+F7,branco,TXN_1,Unknown,Undetermined,,,,,,76.4
+F8,43,IL-6,Unknown,35.6773,1.48,,,,,72.4
+F9,63,TXNRD1,Unknown,32.5684,0.0092,,,,,85.3
+F10,25,TXNRD1,Unknown,32.0718,0.0739,,,,,76.0
+F11,36,TXNRD1,Unknown,31.9496,0.509,,,,,76.0
+F12,branco,IL-6,Unknown,37.736,2.44,,,,,73.9
+G1,62,TXN_2,Unknown,33.7023,1,,,,,81.5
+G2,63,TXN_2,Unknown,33.3525,2.8,,,,,81.5
+G3,43,TXN_2,Unknown,Undetermined,,,,,,65.5
+G4,25,TXN_2,Unknown,26.185,0.455,,,,,81.9
+G5,33,TXN_2,Unknown,25.6846,3.29,,,,,81.9
+G6,36,TXN_2,Unknown,25.2316,1.3,,,,,81.9
+G7,branco,TXN_2,Unknown,Undetermined,,,,,,65.5
+G8,25,IL-6,Unknown,37.3669,2.44,,,,,73.9
+G9,63,TNF alfa,Unknown,32.7628,0.331,,,,,70.6
+G10,25,TNF alfa,Unknown,33.8991,0.785,,,,,80.8
+G11,36,TNF alfa,Unknown,36.4046,1.03,,,,,80.8
+G12,branco,IL-6,Unknown,Undetermined,2.44,,,,,73.9
+H1,62,TXN_2,Unknown,35.1159,1,,,,,81.2
+H2,63,TXN_2,Unknown,29.39,2.8,,,,,81.5
+H3,43,TXN_2,Unknown,35.4645,,,,,,81.2
+H4,25,TXN_2,Unknown,26.8286,0.455,,,,,81.9
+H5,33,TXN_2,Unknown,30.3314,3.29,,,,,81.5
+H6,36,TXN_2,Unknown,27.0752,1.3,,,,,81.9
+H7,branco,IL-6,Unknown,36.3577,2.44,,,,,73.9
+H8,25,IL-6,Unknown,40.8181,2.44,,,,,74.2
+H9,63,TNF alfa,Unknown,33.2315,0.331,,,,,69.9
+H10,25,TNF alfa,Unknown,35.0095,0.785,,,,,69.9
+H11,36,TNF alfa,Unknown,34.9444,1.03,,,,,80.8
+H12,branco,IL-6,Unknown,42.1341,2.44,,,,,73.9

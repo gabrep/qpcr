@@ -1,0 +1,12 @@
+name: qpcr
+title: qpcr
+username: gabre-p
+account: gabre-p
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13906213
+bundleId: 9759471
+url: https://gabre-p.shinyapps.io/qpcr/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
