@@ -14,7 +14,7 @@ gitignore_content <- c(
   "*.tar"
 )
 writeLines(gitignore_content, ".gitignore")
-message(".gitignore atualizado com extensões: .tar, .cel, .txt")
+
 
 # Adiciona todos os arquivos versionáveis
 system("git add .")
